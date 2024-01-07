@@ -4,6 +4,6 @@
 
 ### I. Download [blink.html](https://github.com/Rochdi1614/BlinkHTMLExample/blob/main/blink.html)
 
-### III. Open in browser or vscode
+### II. Open in browser or vscode
 
 # I Hope it helps!
